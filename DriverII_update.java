@@ -1,10 +1,3 @@
-//-----------------------------------
-//Written by: Qing Qiu, 40022237
-//For COMP 249 section U Winter-2017 
-//Assignment #4
-//Part: II
-//-----------------------------------
-
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.FileNotFoundException;

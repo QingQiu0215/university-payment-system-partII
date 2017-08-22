@@ -1,11 +1,3 @@
-//-----------------------------------
-//Written by: Qing Qiu, 40022237
-//For COMP 249 section U Winter-2017 
-//Assignment #4
-//Part: II
-//-----------------------------------
-/**create a class Bill which implements interface Bills.
- */
 public class Bill implements Bills
 {
 	/**declares some Bill attributes.
